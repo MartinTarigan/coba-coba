@@ -1,0 +1,1 @@
+print("fitur d 1/2 fix")
